@@ -1,5 +1,5 @@
 {
-  "name": "Sharper Claws",
+  "name": "Hone Claws",
   "baseManaCost": 2,
   "type": "HERO_POWER",
   "heroClass": "RUST",
@@ -11,7 +11,7 @@
     "spells": [
       {
         "class": "HealSpell",
-        "value": 1
+        "value": 2
       },
       {
         "class": "TemporaryAttackSpell",
